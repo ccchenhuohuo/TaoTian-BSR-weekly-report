@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-15",
+  "fields_order": [
+    "报告周期",
+    "二级类目",
+    "三级类目",
+    "商品名称",
+    "店铺名称",
+    "当周排名",
+    "异动值",
+    "异动类型",
+    "商品链接",
+    "商品图片URL",
+    "附图",
+    "补充图"
+  ],
+  "summary_counts": {
+    "手机配件 - 手机支架/手机座": 100,
+    "摄像机配件": 100
+  },
+  "new_products": [
+    {
+      "business_date": "2026-06-15",
+      "secondary_category": "手机配件",
+      "tertiary_category": "手机支架/手机座",
+      "commodity_name": "Demo Product New Phone Stand",
+      "shop_name": "Demo Shop Alpha",
+      "search_rank": 7,
+      "ranking_change_value": 9999,
+      "commodity_link": "https://example.invalid/item?id=demo-new-phone-stand",
+      "commodity_picture": "https://example.invalid/images/demo-new-phone-stand.jpg"
+    },
+    {
+      "business_date": "2026-06-15",
+      "secondary_category": "摄像机配件",
+      "tertiary_category": "",
+      "commodity_name": "Demo Product New Camera Accessory",
+      "shop_name": "Demo Shop Beta",
+      "search_rank": 12,
+      "ranking_change_value": 9999,
+      "commodity_link": "https://example.invalid/item?id=demo-new-camera-accessory",
+      "commodity_picture": "https://example.invalid/images/demo-new-camera-accessory.jpg"
+    }
+  ],
+  "up_products": [
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 01", "shop_name": "Demo Shop Up", "search_rank": 51, "ranking_change_value": 1, "commodity_link": "https://example.invalid/item?id=demo-up-01", "commodity_picture": "https://example.invalid/images/demo-up-01.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 02", "shop_name": "Demo Shop Up", "search_rank": 52, "ranking_change_value": 2, "commodity_link": "https://example.invalid/item?id=demo-up-02", "commodity_picture": "https://example.invalid/images/demo-up-02.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 03", "shop_name": "Demo Shop Up", "search_rank": 53, "ranking_change_value": 3, "commodity_link": "https://example.invalid/item?id=demo-up-03", "commodity_picture": "https://example.invalid/images/demo-up-03.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 04", "shop_name": "Demo Shop Up", "search_rank": 54, "ranking_change_value": 4, "commodity_link": "https://example.invalid/item?id=demo-up-04", "commodity_picture": "https://example.invalid/images/demo-up-04.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 05", "shop_name": "Demo Shop Up", "search_rank": 55, "ranking_change_value": 5, "commodity_link": "https://example.invalid/item?id=demo-up-05", "commodity_picture": "https://example.invalid/images/demo-up-05.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 06", "shop_name": "Demo Shop Up", "search_rank": 56, "ranking_change_value": 6, "commodity_link": "https://example.invalid/item?id=demo-up-06", "commodity_picture": "https://example.invalid/images/demo-up-06.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 07", "shop_name": "Demo Shop Up", "search_rank": 57, "ranking_change_value": 7, "commodity_link": "https://example.invalid/item?id=demo-up-07", "commodity_picture": "https://example.invalid/images/demo-up-07.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 08", "shop_name": "Demo Shop Up", "search_rank": 58, "ranking_change_value": 8, "commodity_link": "https://example.invalid/item?id=demo-up-08", "commodity_picture": "https://example.invalid/images/demo-up-08.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 09", "shop_name": "Demo Shop Up", "search_rank": 59, "ranking_change_value": 9, "commodity_link": "https://example.invalid/item?id=demo-up-09", "commodity_picture": "https://example.invalid/images/demo-up-09.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 10", "shop_name": "Demo Shop Up", "search_rank": 60, "ranking_change_value": 10, "commodity_link": "https://example.invalid/item?id=demo-up-10", "commodity_picture": "https://example.invalid/images/demo-up-10.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 11", "shop_name": "Demo Shop Up", "search_rank": 61, "ranking_change_value": 11, "commodity_link": "https://example.invalid/item?id=demo-up-11", "commodity_picture": "https://example.invalid/images/demo-up-11.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 12", "shop_name": "Demo Shop Up", "search_rank": 62, "ranking_change_value": 12, "commodity_link": "https://example.invalid/item?id=demo-up-12", "commodity_picture": "https://example.invalid/images/demo-up-12.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 13", "shop_name": "Demo Shop Up", "search_rank": 63, "ranking_change_value": 13, "commodity_link": "https://example.invalid/item?id=demo-up-13", "commodity_picture": "https://example.invalid/images/demo-up-13.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 14", "shop_name": "Demo Shop Up", "search_rank": 64, "ranking_change_value": 14, "commodity_link": "https://example.invalid/item?id=demo-up-14", "commodity_picture": "https://example.invalid/images/demo-up-14.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 15", "shop_name": "Demo Shop Up", "search_rank": 65, "ranking_change_value": 15, "commodity_link": "https://example.invalid/item?id=demo-up-15", "commodity_picture": "https://example.invalid/images/demo-up-15.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Up 16", "shop_name": "Demo Shop Up", "search_rank": 66, "ranking_change_value": 16, "commodity_link": "https://example.invalid/item?id=demo-up-16", "commodity_picture": "https://example.invalid/images/demo-up-16.jpg"}
+  ],
+  "down_products": [
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Down 01", "shop_name": "Demo Shop Down", "search_rank": 71, "ranking_change_value": -1, "commodity_link": "https://example.invalid/item?id=demo-down-01", "commodity_picture": "https://example.invalid/images/demo-down-01.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Down 02", "shop_name": "Demo Shop Down", "search_rank": 72, "ranking_change_value": -2, "commodity_link": "https://example.invalid/item?id=demo-down-02", "commodity_picture": "https://example.invalid/images/demo-down-02.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Down 03", "shop_name": "Demo Shop Down", "search_rank": 73, "ranking_change_value": -3, "commodity_link": "https://example.invalid/item?id=demo-down-03", "commodity_picture": "https://example.invalid/images/demo-down-03.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Down 04", "shop_name": "Demo Shop Down", "search_rank": 74, "ranking_change_value": -4, "commodity_link": "https://example.invalid/item?id=demo-down-04", "commodity_picture": "https://example.invalid/images/demo-down-04.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Down 05", "shop_name": "Demo Shop Down", "search_rank": 75, "ranking_change_value": -5, "commodity_link": "https://example.invalid/item?id=demo-down-05", "commodity_picture": "https://example.invalid/images/demo-down-05.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Down 06", "shop_name": "Demo Shop Down", "search_rank": 76, "ranking_change_value": -6, "commodity_link": "https://example.invalid/item?id=demo-down-06", "commodity_picture": "https://example.invalid/images/demo-down-06.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Down 07", "shop_name": "Demo Shop Down", "search_rank": 77, "ranking_change_value": -7, "commodity_link": "https://example.invalid/item?id=demo-down-07", "commodity_picture": "https://example.invalid/images/demo-down-07.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Down 08", "shop_name": "Demo Shop Down", "search_rank": 78, "ranking_change_value": -8, "commodity_link": "https://example.invalid/item?id=demo-down-08", "commodity_picture": "https://example.invalid/images/demo-down-08.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Down 09", "shop_name": "Demo Shop Down", "search_rank": 79, "ranking_change_value": -9, "commodity_link": "https://example.invalid/item?id=demo-down-09", "commodity_picture": "https://example.invalid/images/demo-down-09.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Down 10", "shop_name": "Demo Shop Down", "search_rank": 80, "ranking_change_value": -10, "commodity_link": "https://example.invalid/item?id=demo-down-10", "commodity_picture": "https://example.invalid/images/demo-down-10.jpg"},
+    {"business_date": "2026-06-15", "secondary_category": "手机配件", "tertiary_category": "手机支架/手机座", "commodity_name": "Demo Product Down 11", "shop_name": "Demo Shop Down", "search_rank": 81, "ranking_change_value": -11, "commodity_link": "https://example.invalid/item?id=demo-down-11", "commodity_picture": "https://example.invalid/images/demo-down-11.jpg"}
+  ]
+}

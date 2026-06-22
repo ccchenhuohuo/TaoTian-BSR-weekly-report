@@ -1,0 +1,33 @@
+# Secrets and local runtime configuration
+.env
+*.env
+.env.local
+.env.*.local
+lark-auth/
+*approval*.json
+
+# Generated workflow outputs
+logs/
+output/
+outputs/
+reports/
+dist/
+**/tool-results/
+**/report_collection/
+
+# Python artifacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp

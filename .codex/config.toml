@@ -1,0 +1,10 @@
+# Project-level Codex config for the Taotian BSR ranking weekly report.
+#
+# Keep global defaults, auth, MCP servers, and plugin settings in the
+# developer's user-level Codex config.
+#
+# Project-specific skills live in:
+#   .agents/skills
+#
+# This file is intentionally minimal so the project inherits user-level Codex
+# configuration unless a future project-specific override is required.
